@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jaswanth-git-test/static/css/main.073c9b0a.css",
+    "main.js": "/jaswanth-git-test/static/js/main.cef1fddd.js",
+    "index.html": "/jaswanth-git-test/index.html",
+    "main.073c9b0a.css.map": "/jaswanth-git-test/static/css/main.073c9b0a.css.map",
+    "main.cef1fddd.js.map": "/jaswanth-git-test/static/js/main.cef1fddd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cef1fddd.js"
+  ]
+}
