@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.box{
+  background-color: #C4D7E0;
+  border-radius: 8px;
+}
+body{
+  background-image: linear-gradient(to bottom,#6E85B7,#B2C8DF,#C4D7E0,#F8F9D7);
+  height: 100vh;
+  
+}
+.box-input-heading{
+  color: #495C83;
+}
+.result-list{
+  color: #B25068;
+  font-weight: 600;
+  
+}
+.list-span{
+  color: #125B50;
+}
+.list{
+  list-style-type: none;
+}
+.box-items{
+  color: #8E3200;
+}
